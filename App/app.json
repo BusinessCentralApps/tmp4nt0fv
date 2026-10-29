@@ -1,7 +1,7 @@
 {
   "id": "d58501d1-5977-44d7-9f7b-469c8dcdcf5e",
   "name": "App",
-  "version": "1.0.0.0",
+  "version": "2.0.0.0",
   "publisher": "MS Test",
   "runtime": "16.0",
   "dependencies": [],
